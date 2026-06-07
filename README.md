@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Parses XML documents displaying readable JSON blocks.
+  name: xml-to-json-parser version: 1.0 type: Repository author: VarshuAi description: >   Parses XML documents displaying readable JSON blocks. primary_tech: CSS
 primary_tech: CSS
 ```
 
